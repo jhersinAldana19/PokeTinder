@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PokeTinder</string>
+    <string name="start_session" />
+    <string name="register_me" />
+    <string name="user_email">email</string>
+    <string name="register_button_text">Registrarme</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="user_password">contraseña</string>
+    <string name="confirm_password">confirmar contraseña</string>
+
+</resources>
